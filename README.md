@@ -9,6 +9,14 @@ Contributors:
 - Joseph Watkins (course instructor, Fall 2026)
 - All students who enrolled into the course, Spring and Fall 2026
 - Jonathan Barry
+- Benjamin Mathews
+- Owen Buckles
+- Katie Northrup
+- Deeksha Reddy
+- Luis Angulo
+- Dora Elalaoui (student)
+- Hanfei Yang
+- Alex Marcek
 
 This is our shared collection of useful resources and code snippets for Statistics and Data Science. We will work on adding the resources from the Brightspace Site here over time.
 
